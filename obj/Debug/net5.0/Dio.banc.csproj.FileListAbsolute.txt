@@ -1,0 +1,16 @@
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/bin/Debug/net5.0/Dio.banc
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/bin/Debug/net5.0/Dio.banc.deps.json
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/bin/Debug/net5.0/Dio.banc.runtimeconfig.json
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/bin/Debug/net5.0/Dio.banc.runtimeconfig.dev.json
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/bin/Debug/net5.0/Dio.banc.dll
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/bin/Debug/net5.0/ref/Dio.banc.dll
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/bin/Debug/net5.0/Dio.banc.pdb
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.csprojAssemblyReference.cache
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.GeneratedMSBuildEditorConfig.editorconfig
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.AssemblyInfoInputs.cache
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.AssemblyInfo.cs
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.csproj.CoreCompileInputs.cache
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.dll
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/ref/Dio.banc.dll
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.pdb
+/home/nayara/Área de Trabalho/estudoNet/Dio.banc/obj/Debug/net5.0/Dio.banc.genruntimeconfig.cache

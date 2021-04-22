@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/nayara/.dotnet/store/|arch|/|tfm|",
+      "/home/nayara/.nuget/packages"
+    ]
+  }
+}
